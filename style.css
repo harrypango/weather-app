@@ -26,6 +26,7 @@ body {
   align-items: center;
   justify-content: space-between;
 }
+
 .search input {
   border: none;
   outline: none;
